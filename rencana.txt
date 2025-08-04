@@ -1,3 +1,4 @@
 -rencana membuat web sederhana
 -mendesain ui/ux dari wen
 -memilih bahasa pemrograman 
+-memulai pembuatan
