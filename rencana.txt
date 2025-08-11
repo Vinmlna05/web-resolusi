@@ -2,4 +2,3 @@
 -mendesain ui/ux dari wen
 -memilih bahasa pemrograman 
 -memilih developer
--membuat web
